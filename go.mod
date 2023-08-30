@@ -17,5 +17,5 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/tebeka/atexit v0.3.0
 	github.com/tliron/yamlkeys v1.3.3
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+	gopkg.in/yaml.v3 v3.0.0
 )
